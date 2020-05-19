@@ -1,7 +1,12 @@
 # autobuild-aliyun
 基于阿里云容器镜像服务自动构建海外镜像工具。
 
+使用方法
+===
+
 ```bash
+$ go get -u github.com/yuchunyu97/autobuild-aliyun/cmd/iproxy
+$ iproxy
 Use Alibaba Cloud ACR Service and git 
 quickly pull foreign images. For example:
 
